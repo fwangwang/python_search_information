@@ -1,1 +1,2 @@
 # python_search_information
+学习python的使用
